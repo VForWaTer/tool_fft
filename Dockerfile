@@ -4,9 +4,9 @@ FROM python:3.10
 # install the toolbox runner tools
 RUN pip install json2args
 
+# install numpy and scipy
+RUN pip install numpy==1.24.2 scipy==1.10.1 plotly==5.13.1 matplotlib==3.7.0
 
-# Do anything you need to install tool dependencies here
-RUN echo "Replace this line with a tool"
 
 # create the tool input structure
 RUN mkdir /in
