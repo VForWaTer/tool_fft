@@ -1,0 +1,4 @@
+The data in this folder was downloaded from the CDC server of Deutscher Wetterdienst (DWD).
+It is the air temperature and relative air humidity data from the station in Chemnitz, Germany.
+
+Detailed information about data usage can be found here: https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf
