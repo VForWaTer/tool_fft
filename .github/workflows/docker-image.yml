@@ -15,7 +15,7 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          body_path: REDME.md
+          body_path: README.md
           generate_release_notes: true
 
 
